@@ -19,3 +19,10 @@ git rm --cached <filename>
 
 git reset
 
+//git branching
+git branch <branch-name>
+
+//switching to branched 
+git checkout <branch-name>
+
+
