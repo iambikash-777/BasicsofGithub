@@ -13,3 +13,9 @@ git config --global user.email 'email address'
 
 //removing a file from git add
 git rm --cached <filename>
+
+
+//reseting everything from staging
+
+git reset
+
